@@ -1,9 +1,9 @@
 # UAS Pemrograman Database Client Server
 
 ## 👤 Identitas
-- Nama  : (isi nama kamu)
-- NIM   : (isi NIM)
-- Kelas : (isi kelas)
+- Nama  : (Rianti Novelia)
+- NIM   : (2411500089)
+- Kelas : (TIA3A)
 - Matkul: Pemrograman Database Client Server
 
 ## 📱 Client (Android - Kotlin)
